@@ -1,1 +1,1 @@
-This is the server with mock data for Green travel app.
+This is the mock backend for Green travel app.
