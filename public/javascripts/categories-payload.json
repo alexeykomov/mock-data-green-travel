@@ -12,7 +12,8 @@
           50.0,
           50.0
         ],
-        "cover": "http://localhost:3000/images/c232f56f63ebe7f75e3f8040f21cbaa5.jpg"
+        "cover": "http://localhost:3000/images/c232f56f63ebe7f75e3f8040f21cbaa5.jpg",
+        "bookmarked": false
       },
       {
         "uuid": "FCAC2EA2-2D2D-42D1-8CBA-19CB5748393C",
@@ -21,7 +22,8 @@
           50.0,
           50.0
         ],
-        "cover": "http://localhost:3000/images/4a1ff36e43a1bc55905012a578f0d299.jpg"
+        "cover": "http://localhost:3000/images/4a1ff36e43a1bc55905012a578f0d299.jpg",
+        "bookmarked": false
       },
       {
         "uuid": "28B26157-D421-4BAC-A698-8D3EA2FC8ED2",
@@ -30,7 +32,8 @@
           50.0,
           50.0
         ],
-        "cover": "http://localhost:3000/images/f110be3fa5922c54e09b857330716497.jpg"
+        "cover": "http://localhost:3000/images/f110be3fa5922c54e09b857330716497.jpg",
+        "bookmarked": false
       },
       {
         "uuid": "5E6859F1-717B-4C74-B4F0-5969F369328B",
@@ -39,7 +42,8 @@
           50.0,
           50.0
         ],
-        "cover": "http://localhost:3000/images/3c5465731a964cd6969921083084c13b.jpg"
+        "cover": "http://localhost:3000/images/3c5465731a964cd6969921083084c13b.jpg",
+        "bookmarked": false
       }
     ]
   },
@@ -58,7 +62,8 @@
               50.0,
               50.0
             ],
-            "cover": "http://localhost:3000/images/a981a7ddb7a13543aee33a3642505a62.jpg"
+            "cover": "http://localhost:3000/images/a981a7ddb7a13543aee33a3642505a62.jpg",
+            "bookmarked": false
           },
           {
             "uuid": "15BFBBE1-E66F-4E0C-962B-6BC4D45E9FBF",
@@ -67,7 +72,8 @@
               50.0,
               50.0
             ],
-            "cover": "http://localhost:3000/images/bdde2507de36a26684900d49a747c001.jpg"
+            "cover": "http://localhost:3000/images/bdde2507de36a26684900d49a747c001.jpg",
+            "bookmarked": false
           },
           {
             "uuid": "AA85EA51-1E79-4D39-834E-CEDB57C05DB6",
@@ -76,7 +82,8 @@
               50.0,
               50.0
             ],
-            "cover": "http://localhost:3000/images/8373d76624a6d520de4130df79ffbc24.jpg"
+            "cover": "http://localhost:3000/images/8373d76624a6d520de4130df79ffbc24.jpg",
+            "bookmarked": false
           },
           {
             "uuid": "1E344C6B-C39B-4521-98D0-D59A0743ADC7",
@@ -85,7 +92,8 @@
               50.0,
               50.0
             ],
-            "cover": "f23bcdb1ab682220c19d3135643b706a.png"
+            "cover": "http://localhost:3000/images/f23bcdb1ab682220c19d3135643b706a.png",
+            "bookmarked": false
           },
           {
             "uuid": "21E6BF43-2F71-421A-A397-1AD67F8FDE2E",
@@ -94,7 +102,8 @@
               50.0,
               50.0
             ],
-            "cover": "http://localhost:3000/images/533ece6a867e47bbb95667034deb3103.jpg"
+            "cover": "http://localhost:3000/images/533ece6a867e47bbb95667034deb3103.jpg",
+            "bookmarked": false
           },{
             "uuid": "4B0BE994-C124-4CBA-97D9-3A41DA902D8B",
             "title": "Слободковская озовая гряда",
@@ -102,7 +111,8 @@
               50.0,
               50.0
             ],
-            "cover": "http://localhost:3000/images/b55241b2a1ce445d28391a3ace18d0cd.jpg"
+            "cover": "http://localhost:3000/images/b55241b2a1ce445d28391a3ace18d0cd.jpg",
+            "bookmarked": false
           }
         ],
         "cover": "http://localhost:3000/images/ad94f9b1602daaad7fcdf721eb3932c9.jpg"
@@ -118,7 +128,8 @@
             50.0,
             50.0
           ],
-          "cover": "http://localhost:3000/images/c4f07b6dc5bf64d2f2e3ce8e83c84d5f.png"
+          "cover": "http://localhost:3000/images/c4f07b6dc5bf64d2f2e3ce8e83c84d5f.png",
+          "bookmarked": false
         },{
           "uuid": "581438A2-832E-4767-977B-20C878383D53",
           "title": "Большое путешествие",
@@ -126,7 +137,8 @@
             50.0,
             50.0
           ],
-          "cover": "http://localhost:3000/images/bc31a7f18efab8b141456a07ab0f08ce.jpg"
+          "cover": "http://localhost:3000/images/bc31a7f18efab8b141456a07ab0f08ce.jpg",
+          "bookmarked": false
         },{
           "uuid": "0F9FE834-CA72-4732-92D4-6CD142F2B879",
           "title": "Войтов мост",
@@ -134,7 +146,8 @@
             50.0,
             50.0
           ],
-          "cover": "http://localhost:3000/images/91ddd6d7dd196d5a1ac1fa66a1ee7e01.jpg"
+          "cover": "http://localhost:3000/images/91ddd6d7dd196d5a1ac1fa66a1ee7e01.jpg",
+          "bookmarked": false
         },{
           "uuid": "92C89C41-554C-4756-B96F-05055696A5DB",
           "title": "Звериный переход",
@@ -142,7 +155,8 @@
             50.0,
             50.0
           ],
-          "cover": "http://localhost:3000/images/c348eab2850077fab67afe463dae0a3a.jpg"
+          "cover": "http://localhost:3000/images/c348eab2850077fab67afe463dae0a3a.jpg",
+          "bookmarked": false
         },{
           "uuid": "6394DE4B-A828-4E2D-8E93-C00531BF6C40",
           "title": "Каменюки - белый песок",
@@ -150,7 +164,8 @@
             50.0,
             50.0
           ],
-          "cover": "http://localhost:3000/images/f23bcdb1ab682220c19d3135643b706a.png"
+          "cover": "http://localhost:3000/images/f23bcdb1ab682220c19d3135643b706a.png",
+          "bookmarked": false
         },{
           "uuid": "AB825E1A-EED9-4B1A-9C77-04C01FC462C1",
           "title": "По следам Наполеона",
@@ -158,7 +173,8 @@
             50.0,
             50.0
           ],
-          "cover": "http://localhost:3000/images/3c78eb290148806a604e93d52c5df855.jpg"
+          "cover": "http://localhost:3000/images/3c78eb290148806a604e93d52c5df855.jpg",
+          "bookmarked": false
         }],
         "cover": "http://localhost:3000/images/deaab7cd214150cb04cb0cdea20d00cc.png"
       },
@@ -167,7 +183,8 @@
         "title": "Авто-пешеходные маршруты",
         "categories": [],
         "items": [],
-        "cover": "http://localhost:3000/images/f110be3fa5922c54e09b857330716497.jpg"
+        "cover": "http://localhost:3000/images/f110be3fa5922c54e09b857330716497.jpg",
+        "bookmarked": false
       }
     ],
     "cover": "",
@@ -186,7 +203,8 @@
           50.0,
           50.0
         ],
-        "cover": "http://localhost:3000/images/34d4758786481bc9648c70735eb10496.jpg"
+        "cover": "http://localhost:3000/images/34d4758786481bc9648c70735eb10496.jpg",
+        "bookmarked": false
       }
     ]
   },
