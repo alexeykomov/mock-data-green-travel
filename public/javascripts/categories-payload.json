@@ -12,7 +12,7 @@
           53.893,
           27.567
         ],
-        "cover": "http://localhost:3000/images/c232f56f63ebe7f75e3f8040f21cbaa5.jpg",
+        "cover": "http://192.168.0.13:3000/images/c232f56f63ebe7f75e3f8040f21cbaa5.jpg",
         "bookmarked": false
       },
       {
@@ -22,7 +22,7 @@
           54.893,
           28.567
         ],
-        "cover": "http://localhost:3000/images/4a1ff36e43a1bc55905012a578f0d299.jpg",
+        "cover": "http://192.168.0.13:3000/images/4a1ff36e43a1bc55905012a578f0d299.jpg",
         "bookmarked": false
       },
       {
@@ -32,7 +32,7 @@
           52.893,
           26.567
         ],
-        "cover": "http://localhost:3000/images/f110be3fa5922c54e09b857330716497.jpg",
+        "cover": "http://192.168.0.13:3000/images/f110be3fa5922c54e09b857330716497.jpg",
         "bookmarked": false
       },
       {
@@ -42,7 +42,7 @@
           53.293,
           28.567
         ],
-        "cover": "http://localhost:3000/images/3c5465731a964cd6969921083084c13b.jpg",
+        "cover": "http://192.168.0.13:3000/images/3c5465731a964cd6969921083084c13b.jpg",
         "bookmarked": false
       }
     ]
@@ -63,7 +63,7 @@
               51.893,
               26.567
             ],
-            "cover": "http://localhost:3000/images/a981a7ddb7a13543aee33a3642505a62.jpg",
+            "cover": "http://192.168.0.13:3000/images/a981a7ddb7a13543aee33a3642505a62.jpg",
             "bookmarked": false
           },
           {
@@ -73,7 +73,7 @@
               51.493,
               26.167
             ],
-            "cover": "http://localhost:3000/images/bdde2507de36a26684900d49a747c001.jpg",
+            "cover": "http://192.168.0.13:3000/images/bdde2507de36a26684900d49a747c001.jpg",
             "bookmarked": false
           },
           {
@@ -83,7 +83,7 @@
               51.193,
               26.967
             ],
-            "cover": "http://localhost:3000/images/8373d76624a6d520de4130df79ffbc24.jpg",
+            "cover": "http://192.168.0.13:3000/images/8373d76624a6d520de4130df79ffbc24.jpg",
             "bookmarked": false
           },
           {
@@ -93,7 +93,7 @@
               52.593,
               25.867
             ],
-            "cover": "http://localhost:3000/images/f23bcdb1ab682220c19d3135643b706a.png",
+            "cover": "http://192.168.0.13:3000/images/f23bcdb1ab682220c19d3135643b706a.png",
             "bookmarked": false
           },
           {
@@ -103,7 +103,7 @@
               51.293,
               26.767
             ],
-            "cover": "http://localhost:3000/images/533ece6a867e47bbb95667034deb3103.jpg",
+            "cover": "http://192.168.0.13:3000/images/533ece6a867e47bbb95667034deb3103.jpg",
             "bookmarked": false
           },{
             "uuid": "4B0BE994-C124-4CBA-97D9-3A41DA902D8B",
@@ -112,11 +112,11 @@
               52.493,
               27.167
             ],
-            "cover": "http://localhost:3000/images/b55241b2a1ce445d28391a3ace18d0cd.jpg",
+            "cover": "http://192.168.0.13:3000/images/b55241b2a1ce445d28391a3ace18d0cd.jpg",
             "bookmarked": false
           }
         ],
-        "cover": "http://localhost:3000/images/ad94f9b1602daaad7fcdf721eb3932c9.jpg"
+        "cover": "http://192.168.0.13:3000/images/ad94f9b1602daaad7fcdf721eb3932c9.jpg"
       },
       {
         "uuid": "34C1A408-C715-46AD-A4B0-7F2EA160DCCC",
@@ -129,7 +129,7 @@
             51.293,
             26.067
           ],
-          "cover": "http://localhost:3000/images/c4f07b6dc5bf64d2f2e3ce8e83c84d5f.png",
+          "cover": "http://192.168.0.13:3000/images/c4f07b6dc5bf64d2f2e3ce8e83c84d5f.png",
           "bookmarked": false
         },{
           "uuid": "581438A2-832E-4767-977B-20C878383D53",
@@ -138,7 +138,7 @@
             51.93,
             25.567
           ],
-          "cover": "http://localhost:3000/images/bc31a7f18efab8b141456a07ab0f08ce.jpg",
+          "cover": "http://192.168.0.13:3000/images/bc31a7f18efab8b141456a07ab0f08ce.jpg",
           "bookmarked": false
         },{
           "uuid": "0F9FE834-CA72-4732-92D4-6CD142F2B879",
@@ -147,7 +147,7 @@
             51.493,
             26.267
           ],
-          "cover": "http://localhost:3000/images/91ddd6d7dd196d5a1ac1fa66a1ee7e01.jpg",
+          "cover": "http://192.168.0.13:3000/images/91ddd6d7dd196d5a1ac1fa66a1ee7e01.jpg",
           "bookmarked": false
         },{
           "uuid": "92C89C41-554C-4756-B96F-05055696A5DB",
@@ -156,7 +156,7 @@
             51.893,
             26.567
           ],
-          "cover": "http://localhost:3000/images/c348eab2850077fab67afe463dae0a3a.jpg",
+          "cover": "http://192.168.0.13:3000/images/c348eab2850077fab67afe463dae0a3a.jpg",
           "bookmarked": false
         },{
           "uuid": "6394DE4B-A828-4E2D-8E93-C00531BF6C40",
@@ -165,7 +165,7 @@
             51.893,
             26.567
           ],
-          "cover": "http://localhost:3000/images/f23bcdb1ab682220c19d3135643b706a.png",
+          "cover": "http://192.168.0.13:3000/images/f23bcdb1ab682220c19d3135643b706a.png",
           "bookmarked": false
         },{
           "uuid": "AB825E1A-EED9-4B1A-9C77-04C01FC462C1",
@@ -174,17 +174,17 @@
             51.893,
             26.567
           ],
-          "cover": "http://localhost:3000/images/3c78eb290148806a604e93d52c5df855.jpg",
+          "cover": "http://192.168.0.13:3000/images/3c78eb290148806a604e93d52c5df855.jpg",
           "bookmarked": false
         }],
-        "cover": "http://localhost:3000/images/deaab7cd214150cb04cb0cdea20d00cc.png"
+        "cover": "http://192.168.0.13:3000/images/deaab7cd214150cb04cb0cdea20d00cc.png"
       },
       {
         "uuid": "6156CF13-3198-4D82-B7F8-53A6713E1706",
         "title": "Авто-пешеходные маршруты",
         "categories": [],
         "items": [],
-        "cover": "http://localhost:3000/images/f110be3fa5922c54e09b857330716497.jpg",
+        "cover": "http://192.168.0.13:3000/images/f110be3fa5922c54e09b857330716497.jpg",
         "bookmarked": false
       }
     ],
@@ -204,7 +204,7 @@
           51.793,
           26.167
         ],
-        "cover": "http://localhost:3000/images/34d4758786481bc9648c70735eb10496.jpg",
+        "cover": "http://192.168.0.13:3000/images/34d4758786481bc9648c70735eb10496.jpg",
         "bookmarked": false
       }
     ]
@@ -222,7 +222,7 @@
           52.893,
           25.267
         ],
-        "cover": "http://localhost:3000/images/7a12214f10a058707aa2d3bd05052136.jpg"
+        "cover": "http://192.168.0.13:3000/images/7a12214f10a058707aa2d3bd05052136.jpg"
       },{
         "uuid": "172EE9BB-A45B-400F-835C-121D82FC64CD",
         "title": "Выгоновское",
@@ -230,7 +230,7 @@
           52.893,
           25.567
         ],
-        "cover": "http://localhost:3000/images/7b79cf00640b021e0fc7e419d22f4bef.png"
+        "cover": "http://192.168.0.13:3000/images/7b79cf00640b021e0fc7e419d22f4bef.png"
       }
     ]
   }
